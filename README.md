@@ -1,1 +1,1 @@
-# AI-Assisted-Autonomous-Ground-Combat-Vehicle
+# AI-Assisted-Autonomous-Human-Detector-Vehicle
